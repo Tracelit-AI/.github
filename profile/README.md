@@ -92,5 +92,5 @@ We welcome contributions across all SDKs. Check the `CONTRIBUTING.md` in each re
 ---
 
 <div align="center">
-  <sub>Built with ☕ · <a href="https://tracelit.io">tracelit.io</a></sub>
+  <sub>Built with ❤️ from San Francisco · <a href="https://tracelit.io">tracelit.io</a></sub>
 </div>
